@@ -245,6 +245,22 @@ Layout styles
 	height:40px;
 	border-top: thick solid  #4aaaa5
 }
+
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -40px;
+}
+
+.footer, .push {
+	height: 40px;
+}
+
+
+
+
+
 .copyright
 {
     padding-top:10px;
@@ -346,6 +362,7 @@ Nav
 	color: white;
 	background-color: none;
 }
+
 
 /* -----------------------
 Single styles
